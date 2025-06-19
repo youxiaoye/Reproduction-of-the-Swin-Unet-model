@@ -5,7 +5,7 @@
 ## 相关链接
 - **Swin-Unet 论文链接**：[Swin-Unet: Unet-like Pure Transformer for Medical Image Segmentation](https://arxiv.org/abs/2105.05537)  
 - **ISIC-2018 数据集下载地址**：[ISIC Challenge 2018](https://challenge.isic-archive.com/data/#2018)  
-- **ISIC-2019 数据集下载地址**：[ISIC Challenge 2019](https://challenge.isic-archive.com/data#2019)  
+ 
 
 ## 数据集特征
 - 包含 10,000+ 张皮肤病变图像，涵盖 7 类疾病（如黑色素瘤、基底细胞癌）。  
